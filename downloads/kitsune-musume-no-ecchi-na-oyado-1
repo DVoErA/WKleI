@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="en" class="hide-age-modal">
+<head>
+<title>Kitsune Musume no Ecchi na Oyado 1 | Stream Online | HentaiFox</title>
+	<!-- Meta Tags -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, viewport-fit=cover" />
+	<meta name="csrf-token" content="f7c81bfb0226f5fc225ef5e72268da97995830c75fc3fc8da355e28d9394769a">
+	<meta name="description" content="Watch and download Kitsune Musume no Ecchi na Oyado 1 Free Hentai Video in HD 1080p and 720p" />
+	
+	<!-- CSS Styles -->
+	<link rel="stylesheet" href="https://hentaifox.tv/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
+	<link rel="stylesheet" href="https://hentaifox.tv/css/main.css?v=99" />
+	<link rel="stylesheet" href="https://hentaifox.tv/css/responsive.css" />
+	<link rel="stylesheet" href="https://hentaifox.tv/css/rta.1122336944.css" />
+	
+	<!-- Javascripts -->
+	<script src="https://hentaifox.tv/js/jquery-3.6.0.min.js" type="text/javascript"></script>
+	<script src="https://hentaifox.tv/js/jquery-ui.min.js" type="text/javascript"></script>
+	<script src="https://hentaifox.tv/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="https://hentaifox.tv/js/main.js" type="text/javascript"></script>
+	<script src="https://hentaifox.tv/js/js.cookie.min.js" type="text/javascript"></script>
+	<script src='https://www.google.com/recaptcha/api.js'></script>
+	<script src="https://hentaifox.tv/js/tnew.min.js"></script>
+
+    <!-- Google Fonts -->
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+    <link type='text/css' href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400italic,600' rel='stylesheet'>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css2?family=Dosis:wght@700&family=Merriweather+Sans:wght@700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Exo:wght@400&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;300;400;600&display=swap" rel="stylesheet">
+
+	<script>
+		document.addEventListener("touchstart", function(){}, true);
+	</script>
+
+</head>
+
+<body>
+
+<script>
+(function () {
+	const now = Date.now();
+	const oneWeek = 7 * 24 * 60 * 60 * 1000;
+	const fiveMinutes = 5 * 60 * 1000;
+	const last = parseInt(localStorage.getItem('adult_modal_shown'), 10);
+	const temp = parseInt(localStorage.getItem('adult_modal_temp'), 10);
+
+	window.__GEO__ = "US";
+	const allowedGeos = ['US', 'FR', 'IT', 'GB'];
+
+	const shouldShow = (!last || now - last > oneWeek) &&
+					 (!temp || now - temp > fiveMinutes) &&
+					 allowedGeos.includes(window.__GEO__);
+
+	if (shouldShow) {
+		window.__SHOW_AGE_MODAL__ = true;
+		document.documentElement.classList.remove('hide-age-modal');
+	}
+})();
+</script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+	
+  const modalKey = 'adult_modal_shown';
+  const tempKey = 'adult_modal_temp';
+  const modal = document.getElementById("age-limit-modal");
+
+  if (!modal) return;
+
+  if (window.__SHOW_AGE_MODAL__) {
+    modal.classList.add("is-open");
+    document.body.classList.add("modal-open");
+  }
+  
+  window.closeModal = function () {
+    localStorage.setItem(modalKey, Date.now());
+    modal.classList.remove("is-open");
+    document.body.classList.remove("modal-open");
+  };
+  
+  const rtaLink = document.getElementById("rtaLink");
+  if (rtaLink) {
+    rtaLink.addEventListener("click", function () {
+      localStorage.setItem(tempKey, Date.now());
+      modal.classList.remove("is-open");
+      document.body.classList.remove("modal-open");
+    });
+  }
+});
+</script>
+
+
+<div class="navbar">
+  
+  <div class="navbar_left">
+
+    <a href="/"><div class="navbar_logo"></div></a>
+
+    <button type="button" class="drop_btn" id="drop_btn"><i class="fa fa-arrow-down"></i></button>
+
+    <div id="dropdown_menu">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/random/">Random</a></li>
+          <li><a href="/parodies/">Parodies</a></li>
+          <li><a href="/tags/">Tags</a></li>
+          <li><a href="/characters/">Characters</a></li>
+          <li><a href="/artists/">Artists</a></li>
+          <li><a href="/groups/">Groups</a></li> 
+		  <li><a target="_blank" rel="nofollow noopener" href="https://engine.voluumtlkrnarketing.com/?194066974">Live Sex Cams</a></li>
+        </ul>
+     </div>
+
+    <button type="button" class="navbar-toggle collapsed" id="nav_btn">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+
+    <div class="navbar_links">
+
+      <ul>
+		<li><a target="_blank" href="https://hentaifox.com/">Galleries</a></li>
+        <li><a href="/random/">Random</a></li>
+        <li><a class="" href="/tags/">Tags</a></li>
+		<li><a class="" href="/series/">Series</a></li>
+        <li class="mob_li"><a class="" href="/login/"><i class="fa fa-sign-in"></i> Login</a></li>
+              <li class="mob_li"><a class="" href="/register/"><i class="fa fa-user"></i> Register</a></li>      </ul>
+
+    </div>
+
+    <div class="navbar_search">
+        
+        <form method="GET" class="navbar-form navbar-left sdesktop" action="/search/?q=">
+          <div class="input-group">
+            <input type="text" name="q" id="q" class="form-control" placeholder="Search here..." value="">
+          <div class="input-group-btn">
+            <button class="btn btn-default" type="submit">
+              <i class="fa fa-search"></i>
+            </button>
+          </div>
+          </div>
+        </form>
+
+    </div>
+
+    <div class="clear"></div>
+
+  </div>
+
+  <div class="navbar_right">
+    
+    <ul>
+      <li><a class="" href="/login/"><i class="fa fa-sign-in-alt"></i> Login</a></li>
+              <li><a class="" href="/register/"><i class="fa fa-user"></i> Register</a></li>    </ul>
+
+  </div>
+
+  <div class="clear"></div>
+
+</div>
+<div class="video">
+
+<div class="left">
+
+			<div id="overlay" class="overlay">
+				<div tabindex="-1" class="overlay_outer">
+				<div class="overlay_box">
+					<div class="borders"></div>
+					<div class="card">
+						<div class="card_title">
+							<button type="button" class="close_btn close_card"><i class="fa fa-times"></i></button> 
+							<div class="tab_title">Sign In Required</div>
+						</div> 
+						<div class="card_text">Liking, disliking, adding to favorites and many other features are only possible after you sign in.</div> 
+						<div class="card_actions">
+							<div class="spacer"></div> 
+							<button type="button" class="close_card card_btn">Cancel</button>
+							<button id="sign_in_card" type="button" class="card_btn card_btn_colored">Sign In</button>
+						</div>
+					</div>
+				</div>
+				</div>
+			</div><div class="player">
+				<iframe allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" scrolling="no" style="width: 100%; height:661px; overflow:hidden; border:0; margin:0; padding:0;" src="https://hentaifox.tv/embed_new.php?name=kitsune-musume-no-ecchi-na-oyado-1"></iframe>
+			</div><div class="info_top">
+				<h1 class="video_title">Kitsune Musume no Ecchi na Oyado 1</h1>
+				<div class="video_views">109,107 views</div>
+				<div class="buttons">
+					<div class="button_item nl_button tt"><span class="tt_text">Like</span><i class="fa fa-heart"></i><span class="ln">34</span></div>
+					<div class="button_item nl_button tt"><span class="tt_text">Dislike</span><i class="fa fa-heart-broken"></i><span class="dn">1</span></div>
+					<div class="button_item nl_button tt"><span class="tt_text">Save to favorites</span><i class="fa fa-star"></i> <span>SAVE</span></div>
+					<!--<div class="button_item report tt"><span class="tt_text">Report video problem</span><i class="fa fa-flag"></i> REPORT</div>-->
+					<input type="hidden" name="video_id" id="video_id" value="2875" />
+				</div>
+			</div>
+			<div class="info_bottom">
+				<div class="cover">
+					<img class="lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='5 0 70 70'%3E%3C/svg%3E" data-src="https://hentaifox.tv/thumbs/covers/kitsune-musume-no-ecchi-na-oyado-1.png" />
+				</div>
+				<div class="r_info_b">
+					<div class="flex_wrap">
+						<div class="r_item half">
+							<span>Brand</span>
+							<a href="/brand/collaboration-works/">Collaboration Works</a>
+						</div>
+						<div class="r_item half">
+							<span>Brand Uploads</span>
+							<span class="sub_r">51</span>
+						</div>
+						<div class="r_item half">
+							<span>Series</span>
+							<a href="/series/kitsune-musume-no-ecchi-na-oyado/">Kitsune Musume no Ecchi na Oyado</a>
+						</div>
+						<div class="r_item half">
+							<span>Series Uploads</span>
+							<span class="sub_r">2</span>
+						</div>
+						<div class="r_item half">
+							<span>Release Date</span>
+							<span class="sub_r">August 25, 2022</span>
+						</div>
+						<div class="r_item half">
+							<span>Upload Date</span>
+							<span class="sub_r">August 29, 2022</span>
+						</div>
+						<div class="r_item">
+							<span>Alternate Titles</span>
+							<h2>
+								<span class="sub_t">きつね娘のエッチなお宿</span><span class="sub_t">여우 소녀의 야한 숙소</span><span class="sub_t">Kitsune Musume no Ecchi na Oyado</span><span class="sub_t">.</span><span class="sub_t">.</span>
+							</h2>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="video_tags">
+				<a href="/tag/virgin/">virgin</a><a href="/tag/fantasy/">fantasy</a><a href="/tag/blow-job/">blow job</a><a href="/tag/facial/">facial</a><a href="/tag/censored/">censored</a><a href="/tag/plot/">plot</a><a href="/tag/hd/">HD</a>
+				<div class="video_description">
+					<p>A little fox who was caught in a trap and was in danger of dying was saved by a human man.
+
+When the fox asked God to repay the man, the little fox turned into a cute little fox girl.
+
+However, when the fox girl went to see the man, he was already on the verge of dying. In order to fulfill the man's last wish, the fox girl decides to become the landlady of the deserted hot spring inn.</p>
+				</div>
+			</div>
+			<div class="comments">
+				<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://hentaifox.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+			</div>
+		</div>
+
+<div class="right">
+<div class="more_from_series">
+				  <div class="mfs_title">More from <strong>Kitsune Musume no Ecchi na Oyado</strong> series:</div>
+				 
+				<div class="mfs_item">
+					<div class="now_playing">Now Playing</div>
+					<div class="poster">
+						<a href="/video/kitsune-musume-no-ecchi-na-oyado-1/"><img class="lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='5 0 70 70'%3E%3C/svg%3E" data-src="https://hentaifox.tv/thumbs/posters/kitsune-musume-no-ecchi-na-oyado-1.png" /></a>
+					</div>
+					<div class="infos">
+						<div class="title"><a href="/video/kitsune-musume-no-ecchi-na-oyado-1/">Kitsune Musume no Ecchi na Oyado 1</a></div>
+						<div class="brand"><a href="/brand/collaboration-works/">Collaboration Works</a></div>
+						<div class="views">109,107 views</div>
+					</div>
+				</div>
+		
+				<div class="mfs_item">
+					
+					<div class="poster">
+						<a href="/video/kitsune-musume-no-ecchi-na-oyado-2/"><img class="lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='5 0 70 70'%3E%3C/svg%3E" data-src="https://hentaifox.tv/thumbs/posters/kitsune-musume-no-ecchi-na-oyado-2.png" /></a>
+					</div>
+					<div class="infos">
+						<div class="title"><a href="/video/kitsune-musume-no-ecchi-na-oyado-2/">Kitsune Musume no Ecchi na Oyado 2</a></div>
+						<div class="brand"><a href="/brand/collaboration-works/">Collaboration Works</a></div>
+						<div class="views">332,462 views</div>
+					</div>
+				</div>
+		</div><div class="more_related">
+				  <div class="mr_title">Related videos:</div>
+				 
+				<div class="mr_item">
+					<div class="poster">
+						<a href="/video/ima-made-de-ichiban-yokatta-sex-2/"><img class="lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='5 0 70 70'%3E%3C/svg%3E" data-src="https://hentaifox.tv/thumbs/posters/ima-made-de-ichiban-yokatta-sex-2.png" /></a>
+					</div>
+					<div class="infos">
+						<div class="title"><a href="/video/ima-made-de-ichiban-yokatta-sex-2/">Ima Made de Ichiban Yokatta Sex 2</a></div>
+						<div class="brand"><a href="/brand/pink-pineapple/">Pink Pineapple</a></div>
+						<div class="views">69,263 views</div>
+					</div>
+				</div>
+		
+				<div class="mr_item">
+					<div class="poster">
+						<a href="/video/ima-made-de-ichiban-yokatta-sex-1/"><img class="lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='5 0 70 70'%3E%3C/svg%3E" data-src="https://hentaifox.tv/thumbs/posters/ima-made-de-ichiban-yokatta-sex-1.png" /></a>
+					</div>
+					<div class="infos">
+						<div class="title"><a href="/video/ima-made-de-ichiban-yokatta-sex-1/">Ima Made de Ichiban Yokatta Sex 1</a></div>
+						<div class="brand"><a href="/brand/pink-pineapple/">Pink Pineapple</a></div>
+						<div class="views">75,920 views</div>
+					</div>
+				</div>
+		
+				<div class="mr_item">
+					<div class="poster">
+						<a href="/video/kyonyuu-elf-oyako-saimin-2/"><img class="lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='5 0 70 70'%3E%3C/svg%3E" data-src="https://hentaifox.tv/thumbs/posters/kyonyuu-elf-oyako-saimin-2.png" /></a>
+					</div>
+					<div class="infos">
+						<div class="title"><a href="/video/kyonyuu-elf-oyako-saimin-2/">Kyonyuu Elf Oyako Saimin 2</a></div>
+						<div class="brand"><a href="/brand/bunnywalker/">Bunnywalker</a></div>
+						<div class="views">261,158 views</div>
+					</div>
+				</div>
+		
+				<div class="mr_item">
+					<div class="poster">
+						<a href="/video/kyonyuu-elf-oyako-saimin-1/"><img class="lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='5 0 70 70'%3E%3C/svg%3E" data-src="https://hentaifox.tv/thumbs/posters/kyonyuu-elf-oyako-saimin-1.png" /></a>
+					</div>
+					<div class="infos">
+						<div class="title"><a href="/video/kyonyuu-elf-oyako-saimin-1/">Kyonyuu Elf Oyako Saimin 1</a></div>
+						<div class="brand"><a href="/brand/bunnywalker/">Bunnywalker</a></div>
+						<div class="views">243,390 views</div>
+					</div>
+				</div>
+		
+				<div class="mr_item">
+					<div class="poster">
+						<a href="/video/ijirare-fukushuu-saimin-2/"><img class="lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='5 0 70 70'%3E%3C/svg%3E" data-src="https://hentaifox.tv/thumbs/posters/ijirare-fukushuu-saimin-2.png" /></a>
+					</div>
+					<div class="infos">
+						<div class="title"><a href="/video/ijirare-fukushuu-saimin-2/">Ijirare: Fukushuu Saimin 2</a></div>
+						<div class="brand"><a href="/brand/bunnywalker/">Bunnywalker</a></div>
+						<div class="views">128,229 views</div>
+					</div>
+				</div>
+		</div></div>
+
+<div class="clear"></div>
+
+</div>
+<div class="clear"></div>
+
+<div class="main_section">
+	<div class="wrap">
+		<h1 class="main_bar">Hentai Anime Video Streaming in HD 1080p, 720p | HentaiFox</h1>	</div>
+</div>
+
+<div class="footer">
+	<div class="top_footer">
+		<div class="wrap">
+			<p class="main_description">Watch and download free sexy hentai anime videos in HD 1080p/720p, mobile and tablet friendly. Fast streaming online at HentaiFox.</span><button onclick="show_more()" id="show_more_btn">Show More</button></p>		</div>
+	</div>
+	<div class="bottom_footer">
+		<div class="wrap">
+			<ul>
+				<li><a href="/">Home</a></li>
+            <li><a href="/contact/">Contact</a></li>
+			<li><a href="/random/">Random</a></li>
+			<li><a target="_blank" rel="nofollow noopener" href="https://theporndude.com">PornDude</a></li>
+          			</ul>
+			<ul>
+							</ul>
+		</div>
+	</div>
+</div>
+<script id="dsq-count-scr" src="//hentaifox.disqus.com/count.js" async></script>
+
+
+<script type='text/javascript'>
+<!--//<![CDATA[
+document.write ("<scr"+"ipt type='text/javascript' src='https://go.hentaigold.net/id/84/'><\/scr"+"ipt>");
+//]]>-->
+</script>
+
+
+<div class="tracker">
+	<script id="_waur4u">var _wau = _wau || []; _wau.push(["small", "5usxku7cai", "r4u"]);</script><script async src="//waust.at/s.js"></script>
+</div>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-8082650-34"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-8082650-34');
+</script>
+
+</body>
+
+<script src="https://hentaifox.tv/js/lazyload.min.js"></script>
+<script>
+(function () {
+	
+	function logElementEvent(eventName, element) {
+	  console.log(Date.now(), eventName, element.getAttribute("data-src"));
+	}
+	
+	var callback_error = function (element) {
+	  element.src =
+		"https://hentaifox.tv/images/load_error.png";
+	};
+	
+	var ll = new LazyLoad({
+		threshold: 0,
+		callback_error: callback_error
+	});
+})();
+</script>
+
+</html>
